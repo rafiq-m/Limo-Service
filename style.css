@@ -1,0 +1,126 @@
+*{
+    font-family: 'Advent Pro', sans-serif;
+}
+body{
+    background-color: #FAFAFA;
+}
+.navbar{
+    background-color: #212121 !important;
+}
+.nav-link{
+    color: #FAFAFA !important;
+    font-weight: 700;
+    font-size: 20px;
+    margin-right: 40px;
+    align-items: center;
+}
+.navbar-brand{
+    margin-left: 50px;
+}
+#carouselExampleIndicators{
+    height: 100%;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.carousel-item{
+    object-fit: fill;
+}
+.fa-facebook-official, .fa-youtube-play{
+    color: #FAFAFA;
+    font-size: 20px !important;
+    align-items: center !important;
+}
+.welcome > h4{
+    border-bottom: 2px solid #616161;
+    width: 40%;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+.para{
+    margin-top: 50px;
+    font-weight: 500;
+    background-color: #212121;
+    color: #FAFAFA;
+    padding: 50px 30px;
+    border-radius: 5px;
+
+}
+
+.inside>img{
+    display: inline;
+}
+
+.inside{
+    text-align: justify;
+    margin: 50px auto;
+}
+.inside-two>img{
+    margin-right: 20px;
+}
+.inside-two>h5{
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 5px solid black;
+    height: 300px;
+    width: 350px;
+}
+
+.rating{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end
+}
+
+.checked{
+    font-size: 25px !important;
+    color: #FFFF00;
+}
+.fa-star{
+    font-size: 25px !important;
+}
+
+.cust-rev{
+    border-bottom: 2px solid #616161;
+    width: 40%;
+    text-align: center;
+    margin:20px auto;
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+
+footer{
+    background-color: #212121;
+    color: #FAFAFA;
+    padding-top: 40px;
+}
+
+.footer-content{
+    list-style-type: disc;
+    padding: 5px;
+}
+
+.bold
+{
+    font-weight: 700;
+}
+
+.foot{
+    margin-top: 50px;
+}
+
+.alled{
+    background-color: #FAFAFA;
+    color: #212121;
+    margin-right: 90px;
+    border-radius: 10px;
+    padding-top:60px;
+    text-align: center;
+}
+
+.alled>h2{
+    margin-top: 20px;
+}
