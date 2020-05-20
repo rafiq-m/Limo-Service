@@ -7,6 +7,10 @@ body{
 .navbar{
     background-color: #212121 !important;
 }
+.navbar-toggler-icon{
+    background-color: #FAFAFA !important;
+    border-radius: 3px !important;
+}
 .nav-link{
     color: #FAFAFA !important;
     font-weight: 700;
@@ -43,7 +47,8 @@ body{
     font-weight: 500;
     background-color: #212121;
     color: #FAFAFA;
-    padding: 50px 30px;
+    padding: 50px 100px;
+    text-align: center;
     border-radius: 5px;
 
 }
