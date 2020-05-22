@@ -56,13 +56,16 @@ body{
 .inside>img{
     display: inline;
 }
-
+.inside-two>img{
+    padding-top: 20px;
+}
 .inside{
     text-align: justify;
     margin: 50px auto;
 }
-.inside-two>img{
-    margin-right: 20px;
+.img-resp{
+        display: block;
+        margin: 0 auto;
 }
 .inside-two>h5{
     display: flex;
@@ -74,6 +77,20 @@ body{
     width: 350px;
 }
 
+@media (max-width: 768px){
+    .inside-two>h5{
+        display: flex;
+        align-items: flex-start;
+        text-align: center;
+        margin: auto;
+        border-top: 5px solid black;
+        margin-top: 20px;
+        padding-top: 40px;
+        border-left: 0px;
+        height: 200px;
+        width: 350px;
+    }
+}
 .rating{
     display: flex;
     align-items: center;
