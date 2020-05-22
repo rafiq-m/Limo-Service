@@ -1,0 +1,103 @@
+* {
+    font-family: 'Advent Pro', sans-serif;
+}
+
+body {
+    background-color: #FAFAFA;
+}
+
+.navbar {
+    background-color: #212121 !important;
+}
+
+.navbar-toggler-icon {
+    background-color: #FAFAFA !important;
+    border-radius: 3px !important;
+}
+
+.nav-link {
+    color: #FAFAFA !important;
+    font-weight: 700;
+    font-size: 20px;
+    margin-right: 40px;
+    align-items: center;
+}
+
+.navbar-brand {
+    margin-left: 50px;
+}
+
+.bg-img {
+    padding: 0px;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Permanent Marker', cursive;
+    font-weight: 500;
+    font-size: 75px;
+    color: #FAFAFA;
+}
+.about{
+    margin-top: 50px;
+    padding: 25px;
+    border-radius: 30px;
+}
+.about-main{
+    text-align: center;
+    margin: 30px auto;
+    border-bottom: 1px solid #212121;
+    width: 40%;
+    padding-bottom: 15px;
+    font-size: 28px;
+    font-weight: 700;
+    color: #212121;
+}
+.about-last-line{
+    font-size: 25px;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    border-top: 1px solid #212121;
+    padding-top: 15px;
+}
+.para{
+    font-size: 18px;
+}
+footer {
+    background-color: #212121;
+    color: #FAFAFA;
+    padding-top: 40px;
+}
+
+.footer-content {
+    list-style-type: disc;
+    padding: 5px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.foot {
+    margin-top: 50px;
+}
+
+.alled {
+    background-color: #FAFAFA;
+    color: #212121;
+    margin-right: 90px;
+    border-radius: 10px;
+    padding-top: 60px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.alled>h2 {
+    margin-top: 20px;
+}
