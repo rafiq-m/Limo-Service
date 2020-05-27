@@ -26,3 +26,62 @@ body {
 .navbar-brand {
     margin-left: 50px;
 }
+footer {
+    background-color: #212121;
+    color: #FAFAFA;
+    padding-top: 40px;
+}
+
+.footer-content {
+    list-style-type: disc;
+    padding: 5px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.foot {
+    margin-top: 50px;
+}
+
+.alled {
+    background-color: #FAFAFA;
+    color: #212121;
+    margin-right: 90px;
+    border-radius: 10px;
+    padding-top: 60px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.alled>h2 {
+    margin-top: 20px;
+}
+.form > input {
+    display: block;
+    border: none;
+    border-left: 2px solid gray;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.form > textarea{
+    display: block;
+    border: none;
+    border-left: 2px solid gray;
+    padding-left: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.embed-responsive-item{
+    height: 70% !important;
+}
+
+.content{
+    background-color: #212121;
+    color: #FAFAFA;
+    padding-top: 30px;
+    text-align: center;
+}
