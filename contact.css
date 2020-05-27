@@ -1,0 +1,28 @@
+* {
+    font-family: 'Advent Pro', sans-serif;
+}
+
+body {
+    background-color: #FAFAFA;
+}
+
+.navbar {
+    background-color: #212121 !important;
+}
+
+.navbar-toggler-icon {
+    background-color: #FAFAFA !important;
+    border-radius: 3px !important;
+}
+
+.nav-link {
+    color: #FAFAFA !important;
+    font-weight: 700;
+    font-size: 20px;
+    margin-right: 40px;
+    align-items: center;
+}
+
+.navbar-brand {
+    margin-left: 50px;
+}

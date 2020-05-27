@@ -91,6 +91,18 @@ body{
         width: 350px;
     }
 }
+
+@media only screen and (max-width: 400px){
+.para {
+    padding: 10px 20px;
+}
+.welcome > h4 {
+    font-size: 15px;
+}
+.alled {
+    margin-right: 0px !important;
+}
+}
 .rating{
     display: flex;
     align-items: center;
